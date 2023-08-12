@@ -1,0 +1,22 @@
+{
+  "name": "learn_node_js",
+  "version": "1.0.0",
+  "description": "https://nodejs.org",
+  "homepage": "https://github.com/yurapa/learn_node_js#readme",
+  "scripts": {
+    "start": "node simple_routing/app.js",
+    "dev": "nodemon simple_routing/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurapa/learn_node_js.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
